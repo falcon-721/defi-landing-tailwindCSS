@@ -8,7 +8,7 @@ const About = () => {
 
         <h1 className='text-3xl text-center font-semibold text-slate-100'>A Growing Protocol Ecosystem</h1>
 
-        <p className='text-white text-center py-2'>The Defi protocol system empire developer.The bird eyes of for air. And prophet velvet is.</p>
+        <p className='text-white text-center py-2'>The Defi protocol system empire developer.We aspire to empower people across the metaverse to easily and <br /> conveniently access on-chain liquidity, paving the way forward in the NFT x DeFi field.</p>
 
         <div className='w-11/12 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-6'>
 
